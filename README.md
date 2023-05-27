@@ -1,2 +1,2 @@
 # -python-ile-makine-ogrenmesi
-adi Evren Şeker Hocanın Udemy üzerinde bulunan Python ile Makine Öğrenmesi kursuna ait pratikler 
+BTK Akademinin Sadi Evren Şeker tarafından verilen "Python ile Makine Öğrenmesi" kursunun kodlarını içerir. 
